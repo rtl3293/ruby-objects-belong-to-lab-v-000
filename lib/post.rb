@@ -1,4 +1,4 @@
-require_relative 'lib/author.rb'
+require_relative 'author.rb'
 
 class Post
   attr_accessor :title :author
